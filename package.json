@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@react-three/drei": "^9.103.1",
+    "@react-three/fiber": "^8.16.1",
+    "framer-motion": "^11.0.24",
+    "react-intersection-observer": "^9.8.1",
+    "three": "^0.163.0"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.1.3"
+  }
+}
